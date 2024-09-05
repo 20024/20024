@@ -1,4 +1,5 @@
-## Hi!!wwlcome to my profile. this is Shreya 👋
+## Hi!!
+Wellcome to my profile. this is Shreya 👋
 
 <!--
 **20024/20024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
